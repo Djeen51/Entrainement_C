@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676199576 source:d:\programmation\c\exo\exo morpion\main.c
+	<stdio.h>
+	<stdlib.h>
+
